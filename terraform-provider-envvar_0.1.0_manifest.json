@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "provider": {
+      "name": "envvar",
+      "source": "nduraphe/envvar"
+    },
+    "platforms": [
+      {
+        "os": "windows",
+        "arch": "386"
+      }
+    ]
+}  
